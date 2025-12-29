@@ -1,3 +1,24 @@
+# ⚠️ Compatibility Patch Fork
+
+**This is a purpose-specific fork of [ClearerVoice-Studio](https://github.com/original/repo).**
+
+It exists solely to resolve version conflicts between numpy 2.x, librosa, and huggingface in the original project. 
+This fork will go away once the original repo is updated to resolve permanent dependencies.
+
+**Use the original repository for all standard use cases.**
+
+---
+
+
+
+
+*(Original README continues below)*
+
+---
+
+---
+
+
 <div align="center">
 <img src="https://github.com/user-attachments/assets/a4ccbc60-5248-4dca-8cec-09a6385c6d0f" width="768" height="192">
 </div>
